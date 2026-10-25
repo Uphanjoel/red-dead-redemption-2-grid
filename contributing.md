@@ -174,3 +174,6 @@ it impossible to tell what is causing a problem if something breaks.
 <p align="center"><a href="https://share.google/26Wna7bkiLlh83iXu"><b>📖 Instructions — Red Dead Redemption 2 (2026)</b></a></p>
 
 <p align="center"><sub>Shared under the MIT License · Updated 2026-10-25</sub></p>
+
+
+*Last updated: 2026-10-25*
